@@ -2,6 +2,8 @@
 
 Boot Animation Creator is a desktop application for creating Android boot animations from videos with a simple and modern workflow.
 
+(Android/Android TV)
+
 ## Features
 
 * Convert videos directly into Android `bootanimation.zip`
